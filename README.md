@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, you need to clone the repository:
 
 ```bash
-git clone https://github.com/AkshMalviya/next-with-mantine-typescript
+git clone https://github.com/AkshMalviya/next-with-mantine-redux-typescript
 ```
 
 Then, you can change foldername as your choice only with small character and hypen "-"
